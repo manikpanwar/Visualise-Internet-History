@@ -1,6 +1,6 @@
 Visualise-Internet-History
 ==========================
-This is a python application I made at Penn Apps X which helps users visualise their Google Chrome web browsing history in the form of a graph network built according to pages visited. This uses JSON to parse the web history and the Ubigraph library. 
+This is a python application which helps users visualise their Google Chrome web browsing history in the form of a graph network built according to pages visited. This uses JSON to parse the web history and the Ubigraph library. 
 
 Set Up:
 
